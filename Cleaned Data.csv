@@ -1,0 +1,41 @@
+"gender","age_group","income_bracket","uninsured_population","total_population","base_severity"
+Male,"18 to 64 years",<= 200% poverty,   19240,  120330,74403.059976708075
+Male,"18 to 64 years",<= 250% poverty,   25345,  158812,74403.059976708075
+Male,"18 to 64 years",<= 138% of poverty,   11598,   75033,74403.059976708075
+Male,"18 to 64 years",<= 400% of poverty,   36383,  257797,74403.059976708075
+Male,"18 to 64 years",Between 138% and 400% of poverty,   24785,  182764,74403.059976708075
+Female,"18 to 64 years",<= 200% poverty,   13996,  137442,74403.059976708075
+Female,"18 to 64 years",<= 250% poverty,   17423,  175727,74403.059976708075
+Female,"18 to 64 years",<= 138% of poverty,    9233,   90030,74403.059976708075
+Female,"18 to 64 years",<= 400% of poverty,   24617,  276963,74403.059976708075
+Female,"18 to 64 years",Between 138% and 400% of poverty,   15384,  186933,74403.059976708075
+Male,"40 to 64 years",<= 200% poverty,    8179,   52579,74403.059976708075
+Male,"40 to 64 years",<= 250% poverty,   10642,   68821,74403.059976708075
+Male,"40 to 64 years",<= 138% of poverty,    5231,   33776,74403.059976708075
+Male,"40 to 64 years",<= 400% of poverty,   15021,  111596,74403.059976708075
+Male,"40 to 64 years",Between 138% and 400% of poverty,    9790,   77820,74403.059976708075
+Female,"40 to 64 years",<= 200% poverty,    6229,   59578,74403.059976708075
+Female,"40 to 64 years",<= 250% poverty,    7800,   76182,74403.059976708075
+Female,"40 to 64 years",<= 138% of poverty,    4095,   39033,74403.059976708075
+Female,"40 to 64 years",<= 400% of poverty,   11307,  123343,74403.059976708075
+Female,"40 to 64 years",Between 138% and 400% of poverty,    7212,   84310,74403.059976708075
+Male,"50 to 64 years",<= 200% poverty,    3137,   30400,74403.059976708075
+Male,"50 to 64 years",<= 250% poverty,    4121,   39177,74403.059976708075
+Male,"50 to 64 years",<= 138% of poverty,    2008,   20015,74403.059976708075
+Male,"50 to 64 years",<= 400% of poverty,    6307,   63380,74403.059976708075
+Male,"50 to 64 years",Between 138% and 400% of poverty,    4299,   43365,74403.059976708075
+Female,"50 to 64 years",<= 200% poverty,    3449,   34925,74403.059976708075
+Female,"50 to 64 years",<= 250% poverty,    4211,   44153,74403.059976708075
+Female,"50 to 64 years",<= 138% of poverty,    2305,   23427,74403.059976708075
+Female,"50 to 64 years",<= 400% of poverty,    6233,   71975,74403.059976708075
+Female,"50 to 64 years",Between 138% and 400% of poverty,    3928,   48548,74403.059976708075
+Male,"21 to 64 years",<= 200% poverty,   18347,  111055,74403.059976708075
+Male,"21 to 64 years",<= 250% poverty,   24158,  146945,74403.059976708075
+Male,"21 to 64 years",<= 138% of poverty,   11037,   68977,74403.059976708075
+Male,"21 to 64 years",<= 400% of poverty,   34689,  240029,74403.059976708075
+Male,"21 to 64 years",Between 138% and 400% of poverty,   23652,  171052,74403.059976708075
+Female,"21 to 64 years",<= 200% poverty,   12969,  127655,74403.059976708075
+Female,"21 to 64 years",<= 250% poverty,   16141,  163918,74403.059976708075
+Female,"21 to 64 years",<= 138% of poverty,    8525,   83190,74403.059976708075
+Female,"21 to 64 years",<= 400% of poverty,   22941,  260277,74403.059976708075
+Female,"21 to 64 years",Between 138% and 400% of poverty,   14416,  177087,74403.059976708075
